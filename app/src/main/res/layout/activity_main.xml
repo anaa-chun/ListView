@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textoEncabezado"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:gravity="center"
+        android:text="@string/tituloEncabezado"
+        android:textColor="#000000"
+        android:textSize="23sp"
+        android:background="#C1DBF0"
+        android:textStyle="bold" />
+
+    <ListView
+        android:id="@+id/lista"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="#A3BADA"
+        android:layout_weight="5" />
+
+    <TextView
+        android:id="@+id/texto"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/tituloAbajo"
+        android:textAlignment="center"
+        android:background="#DCE1E5"
+        android:textColor="#F40B0B"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

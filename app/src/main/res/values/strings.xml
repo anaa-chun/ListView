@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name" translatable="false">ListViews</string>
+<string name="tituloEncabezado" translatable="false">PROGRAMACIÓN MULTIMEDIA</string>
+<string name="tituloAbajo" translatable="false">TOCA UNA OPCIÓN</string>
+    <string name="marcada_una_opci_n">MARCADA UNA OPCIÓN</string>
+    <string name="marcada_una_opci_nA">MARCADA UNA OPCIÓN</string>
+</resources>
